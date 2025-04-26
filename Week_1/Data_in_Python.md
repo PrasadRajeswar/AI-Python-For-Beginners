@@ -108,18 +108,10 @@ print((75 - 32) * 5 / 9)
 Fix the following errors:
 
 ```python
-# Fix the error in the following code
 # Incorrect
-# print(There are 366 days in a leap year")
+print(There are 366 days in a leap year")
 # Correct
 print("There are 366 days in a leap year")
-```
-Fix the error in the following code
-```python
-# Incorrect   
-print("There are 366 days in a leap year")
-# Correct   
-print("""There are 366 days in a leap year""")
 ```
 Application Exercise
 ```python
