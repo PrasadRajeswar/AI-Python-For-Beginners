@@ -2,8 +2,6 @@
 
 In this lesson, we explore different types of data in Python, focusing on text and numbers.
 
-# Lesson 6: Data in Python
-
 ## Table of Contents
 - [Strings](#strings)
 - [Multiline Strings](#multiline-strings)
