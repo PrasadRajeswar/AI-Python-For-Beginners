@@ -34,11 +34,14 @@ Before diving in, ensure you have the following:
    git clone https://github.com/your-username/data-in-python.git
    cd data-in-python
    ```
-📝 Repository Structure
+---
+## 📝 Repository Structure
+1. **Check the Repository structure for the course:**
+   
    ```bash
-data-in-python/
-├── data_in_python.ipynb       # Main interactive notebook
-├── requirements.txt           # List of dependencies
-├── README.md                  # Project overview and instructions
-└── assets/                    # Images and supplementary files
+   data-in-python/
+   ├── data_in_python.ipynb       # Main interactive notebook
+   ├── requirements.txt           # List of dependencies
+   ├── README.md                  # Project overview and instructions
+   └── assets/                    # Images and supplementary files
    ```
