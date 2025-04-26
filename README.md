@@ -48,19 +48,19 @@ Before diving in, ensure you have the following:
 ---
 ## 📚 Topics Covered
 
- 1. Data Types
+ - Data Types
 
 - **Integers (`int`)**
 - **Floating-point numbers (`float`)**
 - **Strings (`str`)**
 - **Booleans (`bool`)**
 
- 2. Data Structures
+ - Data Structures
 
 - **Lists**
 - **Dictionaries**
 
- 3. Data Operations
+ - Data Operations
 
 - **Type Casting**
 - **Indexing and Slicing**
