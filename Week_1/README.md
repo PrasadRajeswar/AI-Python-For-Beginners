@@ -1,4 +1,21 @@
-# Python Programming Basics
+# Python Programming Basics   
+Welcome to **Python Programming Basics**!  
+This guide is designed for absolute beginners who are just starting out on their programming journey. We'll walk you through your very first lines of Python code — from printing a simple message to making and fixing your first error. By the end, you'll be comfortable writing basic Python programs and understanding what they do.
+
+Let’s dive in and start coding!
+
+---
+
+## Table of Contents
+
+1. [Hello, World!](#1-hello-world)
+2. [Hello, You!](#2-hello-you)
+3. [Say Hello to Someone You Love!](#3-say-hello-to-someone-you-love)
+4. [Comments in Code](#4-comments-in-code)
+5. [Making Mistakes is No Big Deal!](#5-making-mistakes-is-no-big-deal)
+6. [Practice](#practice)
+
+---
 
 ## 1. Hello, World!
 
