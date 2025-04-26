@@ -123,9 +123,7 @@ print("""There are 366 days in a leap year""")
 ```
 Application Exercise
 ```python
-Convert 6 feet to meters (1 foot = 0.3048 meters).
-```
-```python
 # Conversion from feet to meters
+Convert 6 feet to meters (1 foot = 0.3048 meters).
 print(6 * 0.3048)
 ```
