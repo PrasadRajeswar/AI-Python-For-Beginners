@@ -105,6 +105,16 @@ recommend a new song I should listen to that matches my taste.
 """)
 ```
 
+Sending a Simple LLM Query
+<details> <summary>Click to expand</summary>
+Start with a simple prompt:
+
+python
+Copy
+Edit
+print_llm_response("What is the capital of France?")
+</details>
+
 ## 🎯 Summary
 You can build dynamic LLM prompts by inserting variables into f-strings.
 
