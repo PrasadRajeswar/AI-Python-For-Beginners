@@ -2,6 +2,18 @@
 
 In this lesson, we explore different types of data in Python, focusing on text and numbers.
 
+# Lesson 6: Data in Python
+
+## Table of Contents
+- [Strings](#strings)
+- [Multiline Strings](#multiline-strings)
+- [The `type()` Function](#the-type-function)
+- [Summary of Data Types](#summary-of-data-types)
+- [Python as a Calculator](#python-as-a-calculator)
+- [Order of Operations](#order-of-operations)
+- [Debugging Practice](#debugging-practice)
+- [Application Exercise](#application-exercise)
+
 ---
 
 ## Strings
@@ -104,6 +116,8 @@ Correct Fahrenheit to Celsius conversion:
 # Correct
 print((75 - 32) * 5 / 9)
 ```
+---
+
 ## Debugging Practice
 Fix the following errors:
 
