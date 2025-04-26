@@ -113,6 +113,14 @@ print(There are 366 days in a leap year")
 # Correct
 print("There are 366 days in a leap year")
 ```
+Multiline string errors:
+
+```python
+# Incorrect
+print("There are 366 days in a leap year")
+# Correct
+print("""There are 366 days in a leap year""")
+```
 Application Exercise
 ```python
 # Conversion from feet to meters
