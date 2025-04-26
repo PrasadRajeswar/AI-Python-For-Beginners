@@ -45,3 +45,31 @@ Before diving in, ensure you have the following:
    ├── README.md                  # Project overview and instructions
    └── assets/                    # Images and supplementary files
    ```
+---
+## 📚 Topics Covered
+
+1. **Data Types:**
+
+   -Integers (int)
+
+   -Floating-point numbers (float)
+
+   -Strings (str)
+
+   -Booleans (bool)
+   
+2. **Data Structures:**
+
+   -Lists
+
+   -Dictionaries
+
+   -Data Operations:
+
+   -Type casting
+
+   -Indexing and slicing
+
+   -Basic arithmetic operations
+
+   -String manipulation
