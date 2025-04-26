@@ -23,7 +23,7 @@ print("Hello, World!")
 ```
 Paste the output code in the cell below using Ctrl+V (or Command+V on Mac).
 
-Press Shift + Enter to submit your prompt.
+Press `Shift + Enter` to submit your prompt.
 
 Once the chatbot has returned the code, you can copy and paste it into the cell below. Only copy the code inside the black box — don't copy any conversation text that the chatbot writes.
 
