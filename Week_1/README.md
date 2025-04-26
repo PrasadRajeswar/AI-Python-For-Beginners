@@ -9,7 +9,7 @@ print("Hello, World!")
 ```
 Congratulations! You have just joined the millions of people who have started their computer programming adventure by running this simple code.
 
-2. Hello, You!
+2. Hello, You!    
 Let's create Python code to say hello to you instead of the world. Here are the steps to follow:
 
 Open the chatbot.
@@ -33,14 +33,14 @@ print (" ")
 ```
 You should now see Python print out "Hello," followed by your name.
 
-3. Say Hello to Someone You Love!
+3. Say Hello to Someone You Love!     
 Copy and paste (or just type out) the "Hello, World!" code in the cell below. Then, modify the text inside the quotation marks to say hello to your best friend, favorite pet, or anyone else you love.
 
 ```python
 # ADD YOUR CODE ON THE NEXT LINE
 print ("  ")
 ```
-4. Comments in Code
+4. Comments in Code     
 You may be wondering what the text in the cells above that starts with the `#` symbol is. This is a comment line. It tells Python to ignore anything that follows on that line after the `#` symbol. Comments are used to help other humans understand what your code does.
 
 Try running the next cell by pressing Shift+Enter — what do you think will happen?
@@ -68,7 +68,7 @@ print("Hello, Andrew!")
 # Follow up with an additional print command
 print("How is your day going?")
 ```
-5. Making Mistakes is No Big Deal!
+5. Making Mistakes is No Big Deal!     
 Run the code in the next cell to see an example of how Python responds to code with an error in it.
 
 ```python
