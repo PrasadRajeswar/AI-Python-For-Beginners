@@ -156,3 +156,9 @@ print(f"""I have visited {} countries.
 I plan to visit {} more countries, 
 and when I'm done I will have visited {} countries.""")
 ```
+## 🎯 Summary
+Variables store data.
+
+Variables can be updated.
+
+Variables make your code more efficient and easier to manage.
