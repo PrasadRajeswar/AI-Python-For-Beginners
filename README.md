@@ -66,3 +66,20 @@ Before diving in, ensure you have the following:
 - **Indexing and Slicing**
 - **Basic Arithmetic Operations**
 - **String Manipulation**
+
+---
+🤖 AI-Assisted Learning
+Throughout the notebook, prompts are provided to encourage interaction with AI assistants. These prompts are designed to:
+
+- **Clarify complex concepts.**
+
+- **Offer alternative explanations.**
+
+- **Assist in debugging code.**
+
+- **Provide real-time feedback.**
+
+Example Prompt:
+```bash
+"Explain the difference between a list and a dictionary in Python."
+```
