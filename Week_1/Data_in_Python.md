@@ -10,7 +10,6 @@ In this lesson, we explore different types of data in Python, focusing on text a
 - [Python as a Calculator](#python-as-a-calculator)
 - [Order of Operations](#order-of-operations)
 - [Debugging Practice](#debugging-practice)
-- [Application Exercise](#application-exercise)
 
 ---
 
