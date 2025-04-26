@@ -22,3 +22,17 @@ Start by importing the necessary helper functions:
 ```python
 from helper_functions import *
 ```
+This includes functions like:
+
+`print_llm_response()` — Sends a prompt to an LLM and prints the response.
+
+`get_llm_response()` — Sends a prompt to an LLM and returns the response as a string.
+
+## Review: Functions You Have Used
+Some functions you've already encountered:
+
+```python
+print("¯\_(ツ)_/¯")
+print_llm_response("What is the capital of France?")
+type(17)  # Displays the data type (int)
+```
