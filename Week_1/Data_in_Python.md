@@ -116,9 +116,9 @@ print("There are 366 days in a leap year")
 ```
 Fix the error in the following code
 ```python
-# Incorrect
+# Incorrect   
 print("There are 366 days in a leap year")
-# Correct
+# Correct   
 print("""There are 366 days in a leap year""")
 ```
 Application Exercise
