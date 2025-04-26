@@ -84,13 +84,13 @@ print("Complete with chatbot code")
 ## Order of Operations
 Python follows standard arithmetic rules:
 
-1. Parentheses ()
+1. Parentheses `()`
 
-2. Exponents **
+2. Exponents `**`
 
-3. Multiplication * and Division / (from left to right)
+3. Multiplication `*` and Division `/` (from left to right)
 
-4. Addition + and Subtraction - (from left to right)
+4. Addition `+` and Subtraction `-` (from left to right)
 
 Incorrect Fahrenheit to Celsius conversion (due to missing parentheses):
 
@@ -104,27 +104,6 @@ Correct Fahrenheit to Celsius conversion:
 # Correct
 print((75 - 32) * 5 / 9)
 ```
-## Practice Exercises
-Try printing different types of text and check their type.
-
-```python
-print("123abc!")
-type("123abc!")
-
-print("@#$%^&*()")
-type("@#$%^&*()")
-
-print("""This
-is
-a
-multiline
-string""")
-type("""This
-is
-a
-multiline
-string""")
-```
 ## Debugging Practice
 Fix the following errors:
 
@@ -135,15 +114,15 @@ Fix the following errors:
 # Correct
 print("There are 366 days in a leap year")
 ```
+Fix the error in the following code
 ```python
-# Fix the error in the following code
 # Incorrect
-# print("There are 366 
-# days in a leap year")
+print("There are 366 days in a leap year")
 # Correct
-print("""There are 366 
-days in a leap year""")
+print("""There are 366 days in a leap year""")
+```
 Application Exercise
+```python
 Convert 6 feet to meters (1 foot = 0.3048 meters).
 ```
 ```python
