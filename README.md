@@ -30,39 +30,33 @@ To introduce fundamental Python data types and structures, enabling learners to:
 ```bash
 AI-Python-For-Beginners/
 ├── README.md                 # Repository overview, setup instructions, and course outline
-├── LICENSE                   # License for the repository
-├── requirements.txt          # Dependencies (if there are any for running the course)
-├── helper_functions.py       # Custom functions used in lessons
-├── lessons/                  # Folder containing all lesson files
-│   ├── lesson_01/            # Lesson 1: Introduction to Python Basics
-│   │   ├── lesson_01.py      # Python code for Lesson 1
-│   │   ├── lesson_01.md      # Lesson 1 markdown for detailed instructions
-│   ├── lesson_02/            # Lesson 2: Variables, Data Types, and Operators
-│   │   ├── lesson_02.py      # Python code for Lesson 2
-│   │   ├── lesson_02.md      # Lesson 2 markdown for detailed instructions
-│   ├── lesson_03/            # Lesson 3: Control Flow and Loops
-│   │   ├── lesson_03.py      # Python code for Lesson 3
-│   │   ├── lesson_03.md      # Lesson 3 markdown for detailed instructions
-│   ├── lesson_04/            # Lesson 4: Customizing Recipes with AI and Data Structures
-│   │   ├── lesson_04.py      # Python code for Lesson 4
-│   │   ├── lesson_04.md      # Lesson 4 markdown for detailed instructions
-│   ├── lesson_05/            # Lesson 5: Comparing Data in Python
-│   │   ├── lesson_05.py      # Python code for Lesson 5
-│   │   ├── lesson_05.md      # Lesson 5 markdown for detailed instructions
-│   ├── lesson_06/            # Lesson 6: Helping AI Make Decisions
-│   │   ├── lesson_06.py      # Python code for Lesson 6
-│   │   ├── lesson_06.md      # Lesson 6 markdown for detailed instructions
-├── exercises/                # Folder for exercises for each lesson
-│   ├── exercise_01/          # Exercise 1 (example for lesson_01)
-│   │   ├── exercise_01.py    # Python code for Exercise 1
-│   ├── exercise_02/          # Exercise 2
-│   │   ├── exercise_02.py    # Python code for Exercise 2
-│   └── exercise_03/          # Exercise 3
-│       ├── exercise_03.py    # Python code for Exercise 3
-├── resources/                # Folder for resources like images or external links
-│   ├── images/               # Folder for images used in the course
-│   ├── external_links.md     # List of useful external resources or links
-└── .gitignore                # List of files to ignore for version control (e.g., .pyc, __pycache__)
+├── Week_1/                   # Folder containing Week_1 lesson files
+│   ├── First_Program.md      
+│   ├── Data_in_Python.md     
+│   ├── Combining_text_and_calculations.md            
+│   ├── Variable.md            
+│   ├── Building_LLM.md            
+│   ├── Functions.md           
+├── Week_2/                   # Folder containing Week_2 lesson files
+│   ├── List.md          
+│   ├── Loop.md          
+│   ├── Dictionary.md         
+│   ├── List_Dictionary.md
+│   ├── Comparing_Data.md
+│   ├── AI_Decision.md
+├── Week_3/                   # Folder containing Week_3 lesson files
+│   ├── images/               
+│   ├── external_links.md     
+│   ├── external_links.md     
+│   ├── external_links.md     
+│   ├── external_links.md     
+│   ├── external_links.md     
+├── Week_4/                   # Folder containing Week_4 lesson files
+│   ├── external_links.md
+│   ├── external_links.md
+│   ├── external_links.md
+│   ├── external_links.md
+│   ├── external_links.md
 ```
 
 ---
