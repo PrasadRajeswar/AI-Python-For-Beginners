@@ -1,4 +1,4 @@
-## Lesson 4: Extracting Restaurant Information from Journal Entries 🍽️📖
+## Lesson 4: Extracting Restaurant Information from Journal Entries
 
 ### ✨ Overview
 In this lesson, you'll use Large Language Models (LLMs) to extract specific restaurant information from journal entries. Specifically, you’ll identify restaurant names and signature dishes, then highlight or list them for easy access.
