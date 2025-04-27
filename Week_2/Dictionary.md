@@ -207,8 +207,3 @@ for task in prioritized_tasks["medium_priority"]:
 - Use dictionaries to **prioritize and automate** AI tasks effectively.
 
 ---
-
-✅ You now understand how to organize, access, and prioritize your work efficiently using dictionaries in Python!  
-Get ready for even deeper usage of dictionaries in the next lesson!
-
-
