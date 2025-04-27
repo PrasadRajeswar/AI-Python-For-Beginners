@@ -1,4 +1,4 @@
-## 📊 Lesson 3: Unlocking Data Magic with Third-Party Packages
+## Lesson 3: Unlocking Data Magic with Third-Party Packages
 
 Python’s third-party libraries make it extremely powerful for data handling and visualization.
 
