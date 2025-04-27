@@ -1,4 +1,4 @@
-## 🌟 Lesson 2: Exploring Python’s Built-in Power with Packages
+## Lesson 2: Exploring Python’s Built-in Power with Packages
 
 Python provides many built-in modules so you don't have to write basic functionality from scratch.
 
