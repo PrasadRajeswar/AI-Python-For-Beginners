@@ -122,7 +122,7 @@ print(promotional_descriptions)
 ```
 Now you have a list of generated descriptions ready for use!
 
-Extra Practice
+## Extra Practice
 1. Fix the Code (Syntax Error)
 Incorrect:
 
