@@ -46,8 +46,8 @@ AI-Python-For-Beginners/
 │   ├── AI_Decision.md
 ├── Week_3/                   # Folder containing Week_3 lesson files
 │   ├── Extracting Restaurant Information From Journal Entries.md               
-│   ├── Loading and Using Your Own Data.md'                              
-│   ├── Reading Journals From Food Critics.md'                           
+│   ├── Loading and Using Your Own Data.md                              
+│   ├── Reading Journals From Food Critics.md                           
 │   ├── Reusable Functions.md     
 │   ├── Using Files in Python.md 
 │   ├── Using of CSV Files.md     
