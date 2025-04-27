@@ -97,6 +97,9 @@ Example Prompt:
 ```bash
 "Explain the difference between a list and a dictionary in Python."
 ```
+
+---
+
 ## 🙌 Acknowledgments
 DeepLearning.AI for the foundational course content.
 
