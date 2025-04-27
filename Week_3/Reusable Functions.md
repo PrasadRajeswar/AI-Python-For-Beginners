@@ -1,6 +1,6 @@
 ## Lesson 6: Turning Code Blocks into Reusable Functions 🔄💡
 
-### ✨ Overview
+### Overview
 In this lesson, you'll learn how to transform code blocks into reusable functions to streamline tasks such as fetching real-time flight prices using an API, sending alerts for price drops, and automating flight monitoring. By the end of the lesson, you’ll be able to:
   - Create reusable functions for common tasks.
   - Integrate API requests to fetch flight prices.
