@@ -24,7 +24,7 @@ To introduce fundamental Python data types and structures, enabling learners to:
    cd AI-Python-For-Beginners
    ```
 ---
-## 📝 Repository Structure
+## 📂 Repository Structure
 1. **Check the Repository structure for the course:**
    
 ```bash
@@ -97,3 +97,7 @@ Example Prompt:
 ```bash
 "Explain the difference between a list and a dictionary in Python."
 ```
+## 🙌 Acknowledgments
+DeepLearning.AI for the foundational course content.
+
+The AI community for tools and resources that enhance learning experiences.
