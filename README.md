@@ -45,18 +45,19 @@ AI-Python-For-Beginners/
 │   ├── Comparing_Data.md
 │   ├── AI_Decision.md
 ├── Week_3/                   # Folder containing Week_3 lesson files
-│   ├── images/               
-│   ├── external_links.md     
-│   ├── external_links.md     
-│   ├── external_links.md     
-│   ├── external_links.md     
-│   ├── external_links.md     
+│   ├── Extracting Restaurant Information From Journal Entries.md               
+│   ├── Loading and Using Your Own Data.md'                         'Using Files in Python.md     
+│   ├── Reading Journals From Food Critics.md'                      'Using of CSV Files.md     
+│   ├── Reusable Functions.md     
+│   ├── Using Files in Python.md 
+│   ├── Using of CSV Files.md     
 ├── Week_4/                   # Folder containing Week_4 lesson files
-│   ├── external_links.md
-│   ├── external_links.md
-│   ├── external_links.md
-│   ├── external_links.md
-│   ├── external_links.md
+│   ├── API to Use AI Models.md
+│   ├── Get Data From Web using API.md
+│   ├── Using Functions From Local File.md
+│   ├── Built-In-Packages.md
+│   ├── Installing Packages.md
+│   ├── Using Third Party Packages.md
 ```
 
 ---
