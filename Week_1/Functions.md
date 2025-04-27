@@ -95,7 +95,7 @@ response = get_llm_response(prompt)
 print(response)
 
 ```
-## Summary
+## 🎯 Summary
 Functions process data and return results.
 
 You can store function results inside variables.
