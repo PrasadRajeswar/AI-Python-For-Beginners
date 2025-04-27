@@ -1,6 +1,6 @@
-# 📊 Data in Python – AI Python for Beginners
+# 📊 AI Python for Beginners
 
-Welcome to the **Data in Python** repository, inspired by DeepLearning.AI's [AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/oa6j1/data-in-python) course. This project is tailored for newcomers to Python, focusing on understanding and manipulating various data types using interactive notebooks and AI-assisted learning.
+Welcome to the **AI Python for Beginners** repository, inspired by DeepLearning.AI's [AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/lesson/oa6j1/data-in-python) course. This project is tailored for newcomers to Python, focusing on understanding and manipulating various data types using interactive notebooks and AI-assisted learning.
 
 ---
 
@@ -15,35 +15,24 @@ To introduce fundamental Python data types and structures, enabling learners to:
 
 ---
 
-## 🧰 Prerequisites
-
-Before diving in, ensure you have the following:
-
-- **Python 3.x** installed on your system.
-- **Jupyter Notebook** or **JupyterLab** for interactive coding.
-- Basic understanding of Python syntax (helpful but not mandatory).
-- An AI assistant (e.g., ChatGPT) for guidance and support.
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/data-in-python.git
-   cd data-in-python
+   git clone https://github.com/PrasadRajeswar/AI-Python-For-Beginners
+   cd AI-Python-For-Beginners
    ```
 ---
 ## 📝 Repository Structure
 1. **Check the Repository structure for the course:**
    
    ```bash
-   data-in-python/
-   ├── data_in_python.ipynb       # Main interactive notebook
-   ├── requirements.txt           # List of dependencies
-   ├── README.md                  # Project overview and instructions
-   └── assets/                    # Images and supplementary files
+   AI-Python-For-Beginners/
+   ├── Week_1       # Contains Coding examples for Week_1 of the Course
+   ├── Week_2           # Contains Coding examples for Week_2 of the Course
+   ├── Week_3                  # Contains Coding examples for Week_3 of the Course
+   └── Week_4/                    # Contains Coding examples for Week_4 of the Course
    ```
 ---
 ## 📚 Topics Covered
