@@ -1,4 +1,4 @@
-## Lesson 2: Loading and Using Your Own Data 📂✍️
+## Lesson 2: Loading and Using Your Own Data 
 
 ---
 
