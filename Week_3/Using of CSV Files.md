@@ -1,6 +1,6 @@
-## Lesson 5: Vacation Planning Using CSV Files 🌍✈️
+## Lesson 5: Vacation Planning Using CSV Files 
 
-### ✨ Overview
+###  Overview
 In this lesson, you’ll create a vacation planner that reads destinations from a CSV file, uses AI to generate trip suggestions, and saves the results to a text file. By the end, you will know how to:
   - Load data from a CSV file.
   - Visualize structured data.
@@ -71,7 +71,7 @@ response = get_llm_response(prompt)
 display(Markdown(response))
 ```
 
-### 🌟 Summary
+### Summary
   - Load and read data from CSV: Use Python’s csv module to load travel destinations and details from a CSV file.
   - Visualize structured data: Display the itinerary data in a clean and readable format using display_table.
   - Generate AI-based activities: Use AI to create a detailed daily itinerary based on the provided city, country, and travel dates.
