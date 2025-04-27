@@ -25,6 +25,7 @@ Import the required helper functions:
 from helper_functions import print_llm_response, get_llm_response
 ```
 These functions will help you interact with the language model.
+
 ---
 
 ## Review: Previous Lesson Recap
@@ -60,6 +61,8 @@ How it works:
 
 The code inside the loop (the indented block) runs for each task.
 
+---
+
 ## Using For Loops with AI Tasks
 Here’s the pattern again:
 
@@ -68,6 +71,7 @@ for task in list_of_tasks:
     print_llm_response(task)
 ```
 ✅ Notice the colon : at the end of the for line and the indentation of the block below it.
+
 ---
 
 ## Common Mistakes: Indentation
@@ -84,6 +88,7 @@ for task in list_of_tasks:
     print_llm_response(task)  # ✅ Correct indentation!
 ```
 Indentation tells Python which lines of code are inside the loop.
+
 ---
 
 ## Iterative Prompt Updating
@@ -107,6 +112,7 @@ for flavor in ice_cream_flavors:
     """
     print_llm_response(prompt)
 ```
+
 ---
 
 ## Saving Results to a List
@@ -127,6 +133,7 @@ for flavor in ice_cream_flavors:
 print(promotional_descriptions)
 ```
 Now you have a list of generated descriptions ready for use!
+
 ---
 
 ## Extra Practice
@@ -170,6 +177,7 @@ for word in words_with_typos:
 
 print(words_without_typos)
 ```
+
 ---
 
 ## Summary
