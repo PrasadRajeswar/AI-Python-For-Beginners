@@ -1,8 +1,8 @@
-## Lesson 1: Using Files in Python 📂🐍
+## Lesson 1: Using Files in Python 
 
 ---
 
-### ✨ Overview
+### Overview
 
 In this lesson, you will learn **how to open and read files** using Python.  
 You'll work with **existing text files**, explore **basic file operations**, and utilize **LLMs (Large Language Models)** to process file contents.
@@ -14,7 +14,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-### 🚀 Prerequisites
+### Prerequisites
 
 Make sure the following functions are available before starting:
 ```python
@@ -22,7 +22,6 @@ from helper_functions import get_llm_response
 from IPython.display import display, Markdown
 ```
 
-🛠️ Code Walkthrough
 1. Opening a Text File and Saving it as a String
 
 ```python
@@ -31,7 +30,7 @@ email = f.read()
 f.close()
 print(email)
 ```
-🔵 Notes:
+Notes:
 Always close the file after reading to free up system resources.
 Alternatively, you can use a with open(...) block for automatic handling (shown later).
 
@@ -49,7 +48,7 @@ print(bullet_points)
 display(Markdown(bullet_points))
 ```
 
-🔥 Challenge for You:
+Challenge for You:
   - Try creating your own email2.txt file.
   - Repeat the same process to read and extract bullet points.
   - Modify the prompt to extract summary instead of bullet points!
