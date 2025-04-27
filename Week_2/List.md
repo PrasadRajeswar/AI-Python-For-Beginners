@@ -58,8 +58,9 @@ print(first_friend)   # Output: Tommy
 
 print(friends_list[1])  # Output: Isabel
 print(friends_list[2])  # Output: Daniel
-⚠️ Remember: Indexing starts at 0, not 1!
 ```
+⚠️ Remember: Indexing starts at 0, not 1!
+
 Trying to access an out-of-range index like `friends_list[3]` will cause an error.
 
 ## Adding and Removing Elements
