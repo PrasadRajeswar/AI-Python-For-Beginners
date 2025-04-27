@@ -39,8 +39,8 @@ list_of_tasks = [
 print(list_of_tasks)
 ```
 You manually passed each task to `print_llm_response()`, which was repetitive.
----
 
+---
 ## Introduction to For Loops
 Instead of repeating code manually, for loops automate the repetition:
 
