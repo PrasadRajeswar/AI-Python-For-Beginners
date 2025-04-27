@@ -179,10 +179,4 @@ print(is_isabel_older_than_tommy or is_isabel_older_than_daniel)
 - **Logical operators** like `and` and `or` combine boolean values.
 - You can use booleans to make decisions in your code.
 
-In the next lesson, you'll learn how to **execute different blocks of code depending on boolean conditions**.
-
 ---
-
-✅ Now you can copy and paste this directly into a `README.md` file.  
-
-Would you also like me to format it a bit more stylishly (for example, with collapsible sections like `<details>` tags) if you want it for a GitHub page? 📚
