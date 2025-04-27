@@ -62,24 +62,16 @@ AI-Python-For-Beginners/
 ---
 ## 📚 Topics Covered
 
- -- Data Types
+The [**AI-Python-For-Beginners**](https://github.com/PrasadRajeswar/AI-Python-For-Beginners) GitHub repository covers:
 
-- **Integers (`int`)**
-- **Floating-point numbers (`float`)**
-- **Strings (`str`)**
-- **Booleans (`bool`)**
+- **Python Fundamentals**: Integers, floats, strings, booleans
+- **Data Structures**: Lists and dictionaries
+- **Data Operations**: Type casting, indexing, slicing, basic arithmetic, string manipulation
+- **AI-Assisted Learning**: Using AI tools for explanations, debugging, and real-time feedback
+- **Project Work**: Building AI-powered tools like custom recipe generators, smart to-do lists, and vacation planners
 
- -- Data Structures
-
-- **Lists**
-- **Dictionaries**
-
- -- Data Operations
-
-- **Type Casting**
-- **Indexing and Slicing**
-- **Basic Arithmetic Operations**
-- **String Manipulation**
+It’s structured into weekly lessons with markdown files for each topic.  
+You can explore it fully [here](https://github.com/PrasadRajeswar/AI-Python-For-Beginners). 🚀
 
 ---
 ## 🤖 AI-Assisted Learning    
