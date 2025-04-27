@@ -1,4 +1,4 @@
-## 🚀 Lesson 1: Importing and Using Functions from Local Files
+## Lesson 1: Importing and Using Functions from Local Files
 
 ### ✨ Overview
 In real-world projects, writing all code in a single file becomes messy.
