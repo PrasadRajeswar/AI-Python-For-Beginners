@@ -84,8 +84,8 @@ Python can be used for quick arithmetic calculations. For example:
 # Summing up sales over 12 months
 print(28+35+43+50+65+70+68+66+75+80+95)
 ```
-To compute more complex calculations, such as compound interest, you can use exponents:
-
+To compute more complex calculations, such as compound interest, you can use exponents:   
+🤖 Use chatbot to complete the code below-
 ```python
 # Example of using exponents
 print("Complete with chatbot code")
